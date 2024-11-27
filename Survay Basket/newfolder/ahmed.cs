@@ -2,5 +2,7 @@
 {
     public class ahmed
     {
+        int id;
+
     }
 }
